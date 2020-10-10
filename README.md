@@ -12,7 +12,4 @@ This are the following algorithms supported in this app.
 - Shell Sort
 - Odd Even Sort
 
-
-
-
-
+![array_visualization](https://user-images.githubusercontent.com/51352791/95653041-2bad6480-0b13-11eb-9342-8c46f13b8809.gif)
