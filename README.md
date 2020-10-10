@@ -15,3 +15,4 @@ This are the following algorithms supported in this app.
 
 
 
+![Uploading array_visualization.gif…]()
